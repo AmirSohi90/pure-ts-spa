@@ -1,0 +1,19 @@
+{
+  "name": "pure-ts-spa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmirSohi90/pure-ts-spa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmirSohi90/pure-ts-spa/issues"
+  },
+  "homepage": "https://github.com/AmirSohi90/pure-ts-spa#readme"
+}
